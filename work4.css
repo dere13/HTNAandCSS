@@ -1,0 +1,148 @@
+body{
+    font-style: italic;
+    background-image: url("image1.jpg");
+    image-orientation: flip;
+    shape-image-threshold: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav ul {
+    display: flex;
+    flex-basis: 15px;
+    justify-content: end;
+    margin-top: 10px;
+    text-decoration: none;
+    text-shadow: #f33f3d;
+
+}
+nav ul  li {
+    display: grid;
+    grid-gap:5px;
+    margin-right: 20px;
+    top: 0;
+    margin-top: 15px;
+    font-size: 18px;
+    left: 20px;
+    grid-template-columns: auto auto auto auto auto;
+    text-align: end;
+}
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+nav ul  li  a{
+    text-decoration: none;
+    font-weight: bold;
+}
+a {
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+}
+.link {
+    text-decoration: none;
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 50px;
+    flex-direction: row;
+    
+}
+.link a{
+ display: flex;
+ justify-content: center;
+ display: grid;
+ text-decoration: none;
+ grid-template-columns: auto auto;
+ grid-gap:400px;
+ text-align: center;
+}
+nav ul  li:hover {
+    background-color: #f33f3d;
+    
+    border-radius: 10px;
+    padding: 5px;
+    transition: 1s;
+}
+.body {
+    background-image: url("TOP\ 50\ •\ The\ Most\ Beautiful\ Animals\ 8K\ ULTRA\ HD\ -\ YouTube\ and\ 3\ more\ pages\ -\ Personal\ -\ Microsoft​\ Edge\ 12_20_2022\ 8_55_50\ PM.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box {
+    display: flex;;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    border-radius: 10px solid black;
+    margin-left: 400px;
+    margin-top:40px ;
+    font-size:60px ;
+    box-sizing:20px;
+    grid-area: auto;
+    background-image: url("Eministy.jpg");
+    text-decoration-style: solid;
+    
+    
+
+    
+}
+.back{
+    background-color: black;
+}
+
+.size{
+    text-size-adjust: 200px;
+    
+    font-style: italic;
+    text-decoration-color: #f33f3d;
+    font-size: xx-large;
+
+}
+.check{
+    background-color: burlywood;
+    text-align: center;
+    text-align:bottom;
+    padding-left:20px;
+    font-size: 30px;
+    display: grid;
+    grid-gap:5px;
+    margin-right: 20px;
+    top: 0;
+    margin-top: 15px;
+    font-size: 55px
+    
+    
+}
+.pplo{
+    font-size: 25px;
+    margin-top: -20px;
+    margin-right: 230px;
+    font-weight: 800;
+}
+.ppl {
+    display: flex;justify-content: center;
+    margin-top: -60px;
+}
+.ppllp{
+    margin-top: -20px;
+}
+.check{
+    background-image: url("11.jpg");
+
+}
+.max{
+    text-align: center;
+}
+
